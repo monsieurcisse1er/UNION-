@@ -1,0 +1,15 @@
+### Structure des fichiers :
+```
+/UNION
+  /src
+    /components
+      Chat.js
+      VideoShort.js
+      VideoLong.js
+    /screens
+      HomeScreen.js
+      ChatScreen.js
+      VideoScreen.js
+  App.js
+  package.json
+```
