@@ -1,0 +1,14 @@
+#### `src/components/Chat.js`
+```javascript
+// Chat.js - Composant pour la messagerie instantanée
+import React from 'react';
+import { View, Text } from 'react-native';
+
+export default function Chat() {
+  return (
+    <View>
+      <Text>Messagerie instantanée</Text>
+    </View>
+  );
+}
+```
