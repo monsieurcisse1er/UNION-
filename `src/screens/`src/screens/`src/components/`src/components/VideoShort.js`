@@ -1,0 +1,14 @@
+#### `src/components/VideoShort.js`
+```javascript
+// VideoShort.js - Composant pour les vidéos courtes de type TikTok
+import React from 'react';
+import { View, Text } from 'react-native';
+
+export default function VideoShort() {
+  return (
+    <View>
+      <Text>Vidéos courtes</Text>
+    </View>
+  );
+}
+```
