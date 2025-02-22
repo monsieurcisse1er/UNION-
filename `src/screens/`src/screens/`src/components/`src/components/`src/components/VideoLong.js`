@@ -1,0 +1,14 @@
+#### `src/components/VideoLong.js`
+```javascript
+// VideoLong.js - Composant pour les vidéos longues de type YouTube
+import React from 'react';
+import { View, Text } from 'react-native';
+
+export default function VideoLong() {
+  return (
+    <View>
+      <Text>Vidéos longues</Text>
+    </View>
+  );
+}
+```
