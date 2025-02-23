@@ -1,0 +1,29 @@
+{
+  "name": "union-webapp",
+  "version": "1.0.0",
+  "description": "Union est une webapp inspirée de WhatsApp, TikTok et YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack --mode production",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monsieurcisse1er/UNION-.git"
+  },
+  "author": "monsieurcisse1er",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-native": "^0.64.0",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "webpack": "^5.64.0",
+    "babel-loader": "^8.2.3",
+    "jest": "^26.6.3"
+  }
+}
